@@ -1,0 +1,9 @@
+path: C:\Users\justi\Documents\PersonalProjects\ScamperDexterDetection # Dataset root directory
+train: images\train # Train images (relative to 'path')
+val: images\train # Val images (relative to 'path')
+
+# Classes
+
+names:
+  0: Scamper
+  1: Dexter
